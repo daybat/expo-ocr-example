@@ -17,6 +17,7 @@
       "ios": {
         "image": "latest"
       }
+    }
   },
   "submit": {
     "production": {}
